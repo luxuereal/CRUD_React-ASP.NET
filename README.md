@@ -1,5 +1,5 @@
-# React-CRUD-with-Asp.Net-Core-Web-API
-Full Stack React js CRUD with Asp.Net Core Web
+# CRUD_React-ASP.NET
+Full Stack React js CRUD with Asp.Net
 
 Points discussed :
 - Build Web API in Asp.Net Core with CRUD web methods
@@ -13,8 +13,8 @@ Points discussed :
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/React-CRUD-with-Asp.Net-Core-Web-API.git
-$ cd React-CRUD-with-Asp.Net-Core-Web-API/react-app
+$ git clone https://github.com/deverabit/CRUD_React-ASP.NET.git
+$ cd CRUD_React-ASP.NET/react-app
 $ npm install
 //update Web API DB connection string
 ```
